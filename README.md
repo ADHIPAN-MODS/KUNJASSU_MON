@@ -49,13 +49,13 @@ $ node bot.js
 ElsaMwol WhatsApp Bot 
 
 Subscriber My Channel More Updates Coming Soon.
-![20210613_095153](https://user-images.githubusercontent.com/85656190/125904681-fc8f3ca0-3c3d-4bd1-b852-6036a7efd8e4.jpg) 
+![20210613_095153](https://avatars.githubusercontent.com/u/87354198?s=400&u=76e1a215b5abc335cdffe21bd8f39d45786ec6b4&v=4) 
 
 https://youtube.com/channel/UCJsw1rA4aiujLDM42Yte1nQ
 
 
 
 
-Project created by JIHAD to make it public
+Project created by ADHIPAN to make it public
 
 | © | Reserved |
