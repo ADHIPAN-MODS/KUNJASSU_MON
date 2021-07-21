@@ -1,4 +1,4 @@
-![e61323a021448e142f1b0b5aa1de9a6d](https://user-images.githubusercontent.com/85656190/125904165-6a4acc9d-70f8-483e-8423-fb93a183488e.jpg)
+![e61323a021448e142f1b0b5aa1de9a6d](https://avatars.githubusercontent.com/u/61716582?v=4)
 # KUNJASSU_MON
 
 # Setup
