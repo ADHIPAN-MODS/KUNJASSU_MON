@@ -56,6 +56,33 @@ Subscriber My Channel More Updates Coming Soon.
 https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA
 
 
+## 📢 Guide
+Click WA logo to Join Support Group 👇
+    <br>
+<br>
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/F0qVKotY0tq2pZ1tQ01PQb)
+  <div align="center">
+
+
+
+
+
+### ⚠️ Warning! 
+```
+Due to Userbot; Your WhatsApp account may be banned.
+This is an open source project, you are responsible for everything you do. 
+Absolutely, ADHIPAN-MODS do not accept responsibility.
+By establishing the Userbot, you are deemed to have accepted these responsibilities.
+```
+
+
+
+### Disclaimer
+`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
+
+
+
+
 
 
 Project created by ADHIPAN to make it public
