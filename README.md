@@ -8,7 +8,7 @@
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@JihadSabeena123/JULIEMWOL-QR#index.js)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/J-I-H-A-D/ElsaMwol)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ADHIPAN-MODS/KUNJASSU_MON)
      </div>
 <br>
 <br >
@@ -24,7 +24,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/J-I-H-A-D/ElsaMwol
+$ git clone https://github.com/ADHIPAN-MODS/KUNJASSU_MON
 $ cd ElsaMwol
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -34,7 +34,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/J-I-H-A-D/ElsaMwol
+$ git clone https://github.com/ADHIPAN-MODS/KUNJASSU_MON
 $ cd ElsaMwol
 $ chmod +x *
 $ npm i
