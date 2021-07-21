@@ -48,7 +48,7 @@ $ node bot.js
 
 KUNJASSU_MON WhatsApp Bot 
 
-Subscriber My Channel More Updates Coming Soon.
+Subscriber My Channel. More Updates Will Be Coming Soon.
 
 
 ![20210613_095153](https://avatars.githubusercontent.com/u/87354198?s=400&u=76e1a215b5abc335cdffe21bd8f39d45786ec6b4&v=4) 
@@ -64,6 +64,10 @@ Click WA logo to Join Support Group 👇
   <div align="center">
 
 
+  
+   <p align="center">
+<a href="https://github.com/ADHIPAN-MODS"><img title="Author" src="https://img.shields.io/badge/Author-ADHIPAN/LiyaMol?color=red&style=for-the-badge&logo=whatsapp"></a>
+  
 
 
 
@@ -85,6 +89,6 @@ By establishing the Userbot, you are deemed to have accepted these responsibilit
 
 
 
-Project created by ADHIPAN to make it public
+Project created by <a href="https://github.com/ADHIPAN-MODS">ADHIPAN</a> to make it public
 
 | © | Reserved |
