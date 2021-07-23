@@ -48,7 +48,7 @@ $ node bot.js
 
 KUNJASSU_MON WhatsApp Bot 
 
-Subscriber My Channel. More Updates Will Be Coming Soon.
+Subscribe My Channel. More Updates Will Be Coming Soon.
 
 
 ![20210613_095153](https://avatars.githubusercontent.com/u/87354198?s=400&u=76e1a215b5abc335cdffe21bd8f39d45786ec6b4&v=4) 
