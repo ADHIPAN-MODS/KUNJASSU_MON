@@ -1,4 +1,4 @@
-![e61323a021448e142f1b0b5aa1de9a6d](https://avatars.githubusercontent.com/u/61716582?v=4)
+[![e61323a021448e142f1b0b5aa1de9a6d](https://avatars.githubusercontent.com/u/61716582?v=4)](https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA)
 # KUNJASSU_MON
 
 # Setup
@@ -72,7 +72,17 @@ Subscribe My Channel. More Updates Will Be Coming Soon.
 
 
 
+<div align="center">
+| <a href="https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA"> CLICK HERE TO SUBSCRIBE OUR CHANNEL FOR MORE UPDATES</a> |
 
+
+
+
+
+
+
+<div align="center">     
+ <a href="https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/youtube-logo-png-images-0.png" alt=" ADHIPAN-MODS " height="200" width="300" /></a>
 
 
 
@@ -102,10 +112,12 @@ Absolutely, ADHIPAN-MODS do not accept responsibility.
 By establishing the Userbot, you are deemed to have accepted these responsibilities.
 ```
 
-
+## License
+This project is protected by `GNU General Public Licence v3.0` license.
+     
 
 ### Disclaimer
-`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
+`WhatsApp, YOUTUBE` name, its variations and the logo are registered trademarks of Facebook And Google. We have nothing to do with the registered trademark
 
 
 
